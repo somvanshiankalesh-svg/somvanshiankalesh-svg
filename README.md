@@ -149,7 +149,7 @@
 - 🎓 B.Tech Computer Science Engineering — Sandip University, Nashik (2022–2026)
 - 📊 CGPA: 8.7/10
 - 🧪 Software Testing Training — Fortune Cloud Technologies, Pune
-- 💼 Java Full Stack Intern — Cravita Technologies (June 2026)
+- 💼 Software Testing Intern — Cravita Technologies (June 2026)
 
 ---
 
